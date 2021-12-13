@@ -27,7 +27,6 @@ share/python-wheels/
 *.egg
 MANIFEST
 files/
-fire_data.csv
 fire_description.xls
 
 # PyInstaller
